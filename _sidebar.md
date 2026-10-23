@@ -1,6 +1,3 @@
-- [首页](/)
-- [完整目录](documentation.md)
-
 - **入门**
   - [简介](introduction.md)
   - [安装](installation.md)
